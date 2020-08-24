@@ -75,6 +75,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Eine neue Umgebung](https://bonsailinse.net/eine-neue-umgebung/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://bonsailinse.net
