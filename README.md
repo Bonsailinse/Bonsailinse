@@ -23,9 +23,9 @@
 [<img align="left" alt="Bonsailinse | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord_profile]
 [<img align="left" alt="Bonsailinse | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-<br />
+---
 
-### Languages and Tools:
+### Languages and Tools
 
 <!-- [<img align="left" alt="PHPStorm" width="26px" src="" />](https://www.jetbrains.com/phpstorm/) -->
 [<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
@@ -74,15 +74,13 @@
 
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />](https://#)
 
-<br /><br />
-
 ---
 
-### Latest Blog Posts *(Mainly german content)*:
+### Latest Blog Posts *(mainly german content)*:
 <!-- BLOG-POST-LIST:START -->
 - [Eine neue Umgebung](https://bonsailinse.net/eine-neue-umgebung/)
 <!-- BLOG-POST-LIST:END -->
-
+[More Blog Posts →][website]
 ---
 
 ### GitHub Stats:
