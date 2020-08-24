@@ -19,11 +19,10 @@
 ### Connect with me:
 
 [<img align="left" alt="Bonsailinse | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Bonsailinse | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Bonsailinse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Bonsailinse | Dev.to" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devto]
 [<img align="left" alt="Bonsailinse | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord_profile]
 [<img align="left" alt="Bonsailinse | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Bonsailinse | Dev.to" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devto]
+[<img align="left" alt="Bonsailinse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
