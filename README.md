@@ -23,6 +23,7 @@
 [<img align="left" alt="Bonsailinse | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][devto]
 [<img align="left" alt="Bonsailinse | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord_profile]
 [<img align="left" alt="Bonsailinse | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Bonsailinse | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img align="left" alt="Bonsailinse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
@@ -86,6 +87,7 @@
 
 [website]: https://bonsailinse.net
 [twitter]: https://twitter.com/Bonsailinse
+[reddit]: https://www.reddit.com/user/Bonsailinse
 [mastodon]: https://layer8.space/@Bonsailinse
 [youtube]: https://www.youtube.com/channel/UC90Pokad0vTfUdPqhpK7X6w
 [discord_server]: https://discord.gg/3vKwJdF
