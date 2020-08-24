@@ -11,6 +11,7 @@
 - I would love to collaborate with other developers, but am a bit too shy to approach people.
 - I am currently learning NodeJS, VueJS, TypeScript and Sass. 
 - You can reach me best on [Discord][discord_profile] and [Telegram][telegram].
+- You could also write me an [email][email], if you like it a bit more oldschool.
 - Beside all that my big hobby is gaming, online and offline. Oh, and cooking!
 
 ### Connect with me:
@@ -70,7 +71,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 [<img align="left" alt="Gist" width="26px" src="" />]()
 
-[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />]()
+[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />](https://#)
 
 <br /><br />
 
@@ -87,3 +88,4 @@
 [discord_server]: https://discord.gg/3vKwJdF
 [discord_profile]: https://discordapp.com/users/202149256285388801
 [telegram]: https://t.me/Bonsailinse
+[email]: mailto:mail@bonsailinse.net
