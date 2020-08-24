@@ -31,6 +31,7 @@
 
 ### Languages and Tools
 
+<div>
 [<img align="left" alt="PHPStorm" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/phpstorm/phpstorm-original.svg" />](https://www.jetbrains.com/phpstorm/)
 [<img align="left" alt="VS Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="HTML" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
@@ -39,7 +40,8 @@
 [<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
 [<img align="left" alt="Vue.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />]()
-<br />
+</div>
+<div>
 [<img align="left" alt="Electron" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />]()
 [<img align="left" alt="Typescript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]()
 [<img align="left" alt="Vagrant" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" />]()
@@ -50,7 +52,7 @@
 [<img align="left" alt="Handlebars" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/handlebars/handlebars-original.svg" />]()
 [<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
 <!-- [<img align="left" alt="Hexo" width="36px" src="" />]() -->
-
+</div>
 <br /><br /><br />
 
 ---
