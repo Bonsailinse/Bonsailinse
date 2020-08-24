@@ -86,6 +86,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bonsailinse&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonsailinse&layout=compact)
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bonsailinse&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonsailinse&layout=compact" />
+
 
 [website]: https://bonsailinse.net
 [twitter]: https://twitter.com/Bonsailinse
