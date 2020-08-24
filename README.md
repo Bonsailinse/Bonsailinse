@@ -32,24 +32,24 @@
 ### Languages and Tools
 
 [<img align="left" alt="PHPStorm" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/phpstorm/phpstorm-original.svg" />](https://www.jetbrains.com/phpstorm/)
-[<img align="left" alt="VS Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="HTML" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="PHP" width="36px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />]()
-[<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
-[<img align="left" alt="Vue.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />]()
-[<img align="left" alt="Electron" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />]()
+[<img align="left" alt="VS Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="HTML" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://html.spec.whatwg.org/multipage/)
+[<img align="left" alt="CSS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3.org/Style/CSS/specs.en.html)
+[<img align="left" alt="PHP" width="36px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />](https://www.php.net/)
+[<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.w3schools.com/js/)
+[<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org)
+[<img align="left" alt="Vue.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />](https://vuejs.org/)
+[<img align="left" alt="Electron" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />](https://www.electronjs.org/)
 <br /><br />
-[<img align="left" alt="Typescript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]()
-[<img align="left" alt="Vagrant" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" />]()
-[<img align="left" alt="Laravel" width="36px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />]()
-[<img align="left" alt="Materialize" width="36px" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />]()
-[<img align="left" alt="Tailwind" width="36px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />]()
-[<img align="left" alt="Grunt" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/grunt/grunt-original.svg" />]()
-[<img align="left" alt="Handlebars" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/handlebars/handlebars-original.svg" />]()
-[<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
-<!-- [<img align="left" alt="Hexo" width="36px" src="" />]() -->
+[<img align="left" alt="Typescript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />](https://www.typescriptlang.org/)
+[<img align="left" alt="Vagrant" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" />](https://www.vagrantup.com/)
+[<img align="left" alt="Laravel" width="36px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />](https://laravel.com/)
+[<img align="left" alt="Materialize" width="36px" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />](https://materializecss.com/)
+[<img align="left" alt="Tailwind" width="36px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />](https://tailwindcss.com/)
+[<img align="left" alt="Grunt" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/grunt/grunt-original.svg" />](https://gruntjs.com/)
+[<img align="left" alt="Handlebars" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/handlebars/handlebars-original.svg" />](https://handlebarsjs.com/)
+[<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://sass-lang.com/)
+[<img align="left" alt="Hexo" width="36px" src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" />](https://hexo.io/)
 
 <br /><br />
 
