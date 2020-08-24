@@ -23,6 +23,7 @@
 [<img align="left" alt="Bonsailinse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Bonsailinse | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord_profile]
 [<img align="left" alt="Bonsailinse | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Bonsailinse | Dev.to" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devto]
 
 <br />
 
@@ -119,3 +120,4 @@
 [telegram]: https://t.me/Bonsailinse
 [keybase]: https://keybase.io/Bonsailinse/chat
 [email]: mailto:mail@bonsailinse.net
+[devto]: https://dev.to/bonsailinse
