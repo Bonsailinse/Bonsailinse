@@ -31,6 +31,7 @@
 
 ### Languages and Tools
 
+<p>
 [<img align="left" alt="PHPStorm" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/phpstorm/phpstorm-original.svg" />](https://www.jetbrains.com/phpstorm/)
 [<img align="left" alt="VS Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 <!-- [<img align="left" alt="DataGrid" width="36px" src="" />]() -->
@@ -85,13 +86,7 @@
 <!-- [<img align="left" alt="Gist" width="36px" src="" />]() -->
 
 [<img align="left" alt="Linux" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />]()
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
+</p>
 
 ---
 
