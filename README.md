@@ -76,7 +76,7 @@
 
 
 ### Latest Blog Posts 
-## *(Mainly german content)*
+#### *(Mainly german content)*
 <!-- BLOG-POST-LIST:START -->
 - [Eine neue Umgebung](https://bonsailinse.net/eine-neue-umgebung/)
 <!-- BLOG-POST-LIST:END -->
