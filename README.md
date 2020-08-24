@@ -88,8 +88,6 @@
 
 [More Blog Posts →][website]
 
-<br />
-
 ---
 
 ### GitHub Stats:
