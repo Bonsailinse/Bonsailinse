@@ -23,6 +23,8 @@
 [<img align="left" alt="Bonsailinse | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord_profile]
 [<img align="left" alt="Bonsailinse | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
+<br />
+
 ---
 
 ### Languages and Tools
@@ -75,6 +77,7 @@
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />](https://#)
 
 <br />
+
 ---
 
 ### Latest Blog Posts *(mainly german content)*:
@@ -84,11 +87,22 @@
 
 [More Blog Posts →][website]
 
+<br />
+
 ---
 
 ### GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bonsailinse&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonsailinse&layout=compact)
+
+<br />
+
+<details>
+  <summary>Recent Github Activity</summary>
+
+<!--START_SECTION:activity-->
+
+</details>
 
 
 [website]: https://bonsailinse.net
