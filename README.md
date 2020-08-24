@@ -76,14 +76,16 @@
 
 <br /><br />
 
+---
 
-### Latest Blog Posts
-#### *(Mainly german content)*
+### Latest Blog Posts *(Mainly german content)*:
 <!-- BLOG-POST-LIST:START -->
 - [Eine neue Umgebung](https://bonsailinse.net/eine-neue-umgebung/)
 <!-- BLOG-POST-LIST:END -->
 
-### GitHub Stats
+---
+
+### GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bonsailinse&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonsailinse&layout=compact)
 
