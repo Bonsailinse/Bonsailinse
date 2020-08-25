@@ -5,6 +5,10 @@
 [![Twitter](https://img.shields.io/twitter/follow/Bonsailinse?color=1DA1F2&logo=twitter&label=Twitter&style=flat-square)][twitter]
 [![Mastodon](https://img.shields.io/mastodon/follow/233002?color=3088d4&domain=https%3A%2F%2Flayer8.space&label=Mastodon&style=flat-square&logo=mastodon)][mastodon]
 [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=flat-square&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
+<br />
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/bonsailinse?style=flat-square)][reddit]
+[![BTC](https://img.shields.io/keybase/btc/bonsailinse?style=flat-square)][BTC]
+[![PGP](https://img.shields.io/keybase/pgp/bonsailinse?style=flat-square)][PGP]
 
 ## I do computer stuff for a living. I also try to become a teacher!
 
@@ -20,11 +24,13 @@
 ### Connect with me:
 
 [<img align="left" alt="Bonsailinse | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Bonsailinse | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][devto]
 [<img align="left" alt="Bonsailinse | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord_profile]
 [<img align="left" alt="Bonsailinse | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Bonsailinse | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="Bonsailinse | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][devto]
 [<img align="left" alt="Bonsailinse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Bonsailinse | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
+[<img align="left" alt="Bonsailinse | PayPal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/paypal.svg" />][paypal]
 
 <br />
 
@@ -96,3 +102,4 @@
 [keybase]: https://keybase.io/Bonsailinse/chat
 [email]: mailto:mail@bonsailinse.net
 [devto]: https://dev.to/bonsailinse
+[paypal]: paypal.me/RobinLangenhorst
