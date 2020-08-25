@@ -6,6 +6,7 @@
 [![Mastodon](https://img.shields.io/mastodon/follow/233002?color=3088d4&domain=https%3A%2F%2Flayer8.space&label=Mastodon&style=flat-square&logo=mastodon)][mastodon]
 [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=flat-square&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
 <br />
+
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/bonsailinse?style=flat-square)][reddit]
 [![BTC](https://img.shields.io/keybase/btc/bonsailinse?style=flat-square)][BTC]
 [![PGP](https://img.shields.io/keybase/pgp/bonsailinse?style=flat-square)][PGP]
