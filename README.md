@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=bonsailinse.net&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAA5UExURRsbGyQkJHh1aGdkXTIyL09PTxUVFR4eHrq6ukpKSjg5NkBAQIaGhigoKHhdU4RVTJeXl7UNC4+Pjx96p3EAAAAJcEhZcwAAFxIAABcSAWef0lIAAAB4SURBVBjTVY9bDsMwCATXbYBi4iTN/Q9bFsmOOuJrxGOBGYygvwq4x79oQ1qJ7V1AzUuYbQUUMlqrjoMACHEJoJ9fgroxPDuOk+QIVJtzRydLIO6L5EgWR+RTcKlnOFDsIvKcTRGquoJR3Ey6os8dz3N7gfn+/OUHZJQGosnVPpYAAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII=&url=https%3A%2F%2Fbonsailinse.net)](https://bonsailinse.net)
 [![Discord](https://img.shields.io/discord/204519040067043328?color=7289DA&logo=discord&style=flat-square)][discord_server]
 [![PGP](https://img.shields.io/keybase/pgp/bonsailinse?style=flat-square&color=00539b)][pgp]
-[![Day 2 | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=flat-square&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
+[![Day 3 | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=flat-square&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
 
 ## I do computer stuff for a living. I also try to become a teacher!
 
