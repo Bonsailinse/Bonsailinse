@@ -104,3 +104,5 @@
 [email]: mailto:mail@bonsailinse.net
 [devto]: https://dev.to/bonsailinse
 [paypal]: paypal.me/RobinLangenhorst
+[BTC]: https://gist.github.com/Bonsailinse/ae51b9616bb27988f5d7a0efd2d824ef
+[PGP]: http://hkps.pool.sks-keyservers.net/pks/lookup?search=0x5D2EF8299CCB7260&fingerprint=on&op=index
