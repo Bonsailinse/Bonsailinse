@@ -88,8 +88,8 @@
 <details>
   <summary><i>Donation links to support a poor student</i></summary>
 
-  [![BTC](https://img.shields.io/keybase/btc/bonsailinse?style=flat-square&color=f7931a&logo=btc)][btc]
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal)][paypal]
+  [![BTC](https://img.shields.io/keybase/btc/bonsailinse?style=flat-square&color=f7931a&logo=bitcoin)][btc]
+  [![PayPal](https://img.shields.io/static/v1?label=&message=PayPal&style=flat-square&logo=paypal)][paypal]
 
 </details>
 
