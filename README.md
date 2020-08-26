@@ -1,7 +1,8 @@
 ### My name is [Bonsailinse][website], and this is my GitHub profile
 
-[![PGP](https://img.shields.io/keybase/pgp/bonsailinse?style=flat-square&color=00539b)][PGP]
-[![BTC](https://img.shields.io/keybase/btc/bonsailinse?style=flat-square&color=f7931a)][BTC]
+[![Website](https://img.shields.io/website?label=bonsailinse.net&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAA5UExURRsbGyQkJHh1aGdkXTIyL09PTxUVFR4eHrq6ukpKSjg5NkBAQIaGhigoKHhdU4RVTJeXl7UNC4+Pjx96p3EAAAAJcEhZcwAAFxIAABcSAWef0lIAAAB4SURBVBjTVY9bDsMwCATXbYBi4iTN/Q9bFsmOOuJrxGOBGYygvwq4x79oQ1qJ7V1AzUuYbQUUMlqrjoMACHEJoJ9fgroxPDuOk+QIVJtzRydLIO6L5EgWR+RTcKlnOFDsIvKcTRGquoJR3Ey6os8dz3N7gfn+/OUHZJQGosnVPpYAAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII=&url=https%3A%2F%2Fbonsailinse.net)](https://bonsailinse.net)
+[![Discord](https://img.shields.io/discord/204519040067043328?color=7289DA&logo=discord&style=flat-square)][discord_server]
+[![PGP](https://img.shields.io/keybase/pgp/bonsailinse?style=flat-square&color=00539b)][pgp]
 [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=flat-square&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
 
 ## I do computer stuff for a living. I also try to become a teacher!
@@ -84,11 +85,12 @@
 
 </details>
 
-[![Website](https://img.shields.io/website?label=bonsailinse.net&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAA5UExURRsbGyQkJHh1aGdkXTIyL09PTxUVFR4eHrq6ukpKSjg5NkBAQIaGhigoKHhdU4RVTJeXl7UNC4+Pjx96p3EAAAAJcEhZcwAAFxIAABcSAWef0lIAAAB4SURBVBjTVY9bDsMwCATXbYBi4iTN/Q9bFsmOOuJrxGOBGYygvwq4x79oQ1qJ7V1AzUuYbQUUMlqrjoMACHEJoJ9fgroxPDuOk+QIVJtzRydLIO6L5EgWR+RTcKlnOFDsIvKcTRGquoJR3Ey6os8dz3N7gfn+/OUHZJQGosnVPpYAAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII=&url=https%3A%2F%2Fbonsailinse.net)](https://bonsailinse.net)
-[![Discord](https://img.shields.io/discord/204519040067043328?color=7289DA&logo=discord&style=flat-square)][discord_server]
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/bonsailinse?style=flat-square)][reddit]
-[![Twitter](https://img.shields.io/twitter/follow/Bonsailinse?color=1DA1F2&logo=twitter&label=Twitter&style=flat-square)][twitter]
-[![Mastodon](https://img.shields.io/mastodon/follow/233002?color=3088d4&domain=https%3A%2F%2Flayer8.space&label=Mastodon&style=flat-square&logo=mastodon)][mastodon]
+<details>
+  <summary>*Donation links to support a poor student*</summary>
+  [![BTC](https://img.shields.io/keybase/btc/bonsailinse?style=flat-square&color=f7931a&logo=btc)][btc]
+  [![PayPal](https://img.shields.io/badge/logo-PayPal-00457C?style=flat-square&logo=paypal)][paypal]
+
+</details>
 
 [website]: https://bonsailinse.net
 [twitter]: https://twitter.com/Bonsailinse
@@ -102,5 +104,5 @@
 [email]: mailto:mail@bonsailinse.net
 [devto]: https://dev.to/bonsailinse
 [paypal]: https://paypal.me/RobinLangenhorst
-[BTC]: https://gist.github.com/Bonsailinse/ae51b9616bb27988f5d7a0efd2d824ef
-[PGP]: http://hkps.pool.sks-keyservers.net/pks/lookup?search=0x5D2EF8299CCB7260&fingerprint=on&op=index
+[btc]: https://gist.github.com/Bonsailinse/ae51b9616bb27988f5d7a0efd2d824ef
+[pgp]: http://hkps.pool.sks-keyservers.net/pks/lookup?search=0x5D2EF8299CCB7260&fingerprint=on&op=index
