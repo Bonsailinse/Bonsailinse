@@ -8,8 +8,8 @@
 
 <br />
 
-[![PGP](https://img.shields.io/keybase/pgp/bonsailinse?style=flat-square)][PGP]
-[![BTC](https://img.shields.io/keybase/btc/bonsailinse?style=flat-square)][BTC]
+[![PGP](https://img.shields.io/keybase/pgp/bonsailinse?style=flat-square&color=00539b)][PGP]
+[![BTC](https://img.shields.io/keybase/btc/bonsailinse?style=flat-square&color=f7931a)][BTC]
 [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=flat-square&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
 
 ## I do computer stuff for a living. I also try to become a teacher!
