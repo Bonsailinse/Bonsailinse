@@ -75,11 +75,11 @@
   <summary>Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//Bonsailinse/EVE-Oracle/pull/1) in [Bonsailinse/EVE-Oracle](https://github.com//Bonsailinse/EVE-Oracle)
-2. 🗣 Commented on [#1](https://github.com//Bonsailinse/EVE-Oracle/issues/1) in [Bonsailinse/EVE-Oracle](https://github.com//Bonsailinse/EVE-Oracle)
-3. ❗️ Opened issue [#106](https://github.com//rossjrw/rossjrw/issues/106) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
-4. ❗️ Opened issue [#943](https://github.com//JonathanGin52/JonathanGin52/issues/943) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#4713](https://github.com//timburgan/timburgan/issues/4713) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+1. 💪 Opened PR [#2](https://github.com//Bonsailinse/EVE-Oracle/pull/2) in [Bonsailinse/EVE-Oracle](https://github.com//Bonsailinse/EVE-Oracle)
+2. ❌ Closed PR [#1](https://github.com//Bonsailinse/EVE-Oracle/pull/1) in [Bonsailinse/EVE-Oracle](https://github.com//Bonsailinse/EVE-Oracle)
+3. 🗣 Commented on [#1](https://github.com//Bonsailinse/EVE-Oracle/issues/1) in [Bonsailinse/EVE-Oracle](https://github.com//Bonsailinse/EVE-Oracle)
+4. ❗️ Opened issue [#106](https://github.com//rossjrw/rossjrw/issues/106) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
+5. ❗️ Opened issue [#943](https://github.com//JonathanGin52/JonathanGin52/issues/943) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 </details>
