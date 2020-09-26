@@ -75,11 +75,11 @@
   <summary>Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#248](https://github.com//peterhaneve/evemon/issues/248) in [peterhaneve/evemon](https://github.com//peterhaneve/evemon)
-2. 🎉 Merged PR [#2](https://github.com//Bonsailinse/EVE-Oracle/pull/2) in [Bonsailinse/EVE-Oracle](https://github.com//Bonsailinse/EVE-Oracle)
-3. 💪 Opened PR [#2](https://github.com//Bonsailinse/EVE-Oracle/pull/2) in [Bonsailinse/EVE-Oracle](https://github.com//Bonsailinse/EVE-Oracle)
-4. ❌ Closed PR [#1](https://github.com//Bonsailinse/EVE-Oracle/pull/1) in [Bonsailinse/EVE-Oracle](https://github.com//Bonsailinse/EVE-Oracle)
-5. 🗣 Commented on [#1](https://github.com//Bonsailinse/EVE-Oracle/issues/1) in [Bonsailinse/EVE-Oracle](https://github.com//Bonsailinse/EVE-Oracle)
+1. ❗️ Opened issue [#248](https://github.com/peterhaneve/evemon/issues/248) in [peterhaneve/evemon](https://github.com/peterhaneve/evemon)
+2. 🎉 Merged PR [#2](https://github.com/Bonsailinse/EVE-Oracle/pull/2) in [Bonsailinse/EVE-Oracle](https://github.com/Bonsailinse/EVE-Oracle)
+3. 💪 Opened PR [#2](https://github.com/Bonsailinse/EVE-Oracle/pull/2) in [Bonsailinse/EVE-Oracle](https://github.com/Bonsailinse/EVE-Oracle)
+4. ❌ Closed PR [#1](https://github.com/Bonsailinse/EVE-Oracle/pull/1) in [Bonsailinse/EVE-Oracle](https://github.com/Bonsailinse/EVE-Oracle)
+5. 🗣 Commented on [#1](https://github.com/Bonsailinse/EVE-Oracle/issues/1) in [Bonsailinse/EVE-Oracle](https://github.com/Bonsailinse/EVE-Oracle)
 <!--END_SECTION:activity-->
 
 </details>
