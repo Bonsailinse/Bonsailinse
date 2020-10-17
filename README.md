@@ -75,11 +75,11 @@
   <summary>Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#195](https://github.com/GoldenGnu/jeveassets/issues/195) in [GoldenGnu/jeveassets](https://github.com/GoldenGnu/jeveassets)
-2. ❗️ Opened issue [#248](https://github.com/peterhaneve/evemon/issues/248) in [peterhaneve/evemon](https://github.com/peterhaneve/evemon)
-3. 🎉 Merged PR [#2](https://github.com/Bonsailinse/EVE-Oracle/pull/2) in [Bonsailinse/EVE-Oracle](https://github.com/Bonsailinse/EVE-Oracle)
-4. 💪 Opened PR [#2](https://github.com/Bonsailinse/EVE-Oracle/pull/2) in [Bonsailinse/EVE-Oracle](https://github.com/Bonsailinse/EVE-Oracle)
-5. ❌ Closed PR [#1](https://github.com/Bonsailinse/EVE-Oracle/pull/1) in [Bonsailinse/EVE-Oracle](https://github.com/Bonsailinse/EVE-Oracle)
+1. 🗣 Commented on [#24285](https://github.com/keybase/client/issues/24285) in [keybase/client](https://github.com/keybase/client)
+2. ❗️ Opened issue [#195](https://github.com/GoldenGnu/jeveassets/issues/195) in [GoldenGnu/jeveassets](https://github.com/GoldenGnu/jeveassets)
+3. ❗️ Opened issue [#248](https://github.com/peterhaneve/evemon/issues/248) in [peterhaneve/evemon](https://github.com/peterhaneve/evemon)
+4. 🎉 Merged PR [#2](https://github.com/Bonsailinse/EVE-Oracle/pull/2) in [Bonsailinse/EVE-Oracle](https://github.com/Bonsailinse/EVE-Oracle)
+5. 💪 Opened PR [#2](https://github.com/Bonsailinse/EVE-Oracle/pull/2) in [Bonsailinse/EVE-Oracle](https://github.com/Bonsailinse/EVE-Oracle)
 <!--END_SECTION:activity-->
 
 </details>
