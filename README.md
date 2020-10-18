@@ -77,9 +77,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#24285](https://github.com/keybase/client/issues/24285) in [keybase/client](https://github.com/keybase/client)
 2. 🗣 Commented on [#24285](https://github.com/keybase/client/issues/24285) in [keybase/client](https://github.com/keybase/client)
-3. ❗️ Opened issue [#195](https://github.com/GoldenGnu/jeveassets/issues/195) in [GoldenGnu/jeveassets](https://github.com/GoldenGnu/jeveassets)
-4. ❗️ Opened issue [#248](https://github.com/peterhaneve/evemon/issues/248) in [peterhaneve/evemon](https://github.com/peterhaneve/evemon)
-5. 🎉 Merged PR [#2](https://github.com/Bonsailinse/EVE-Oracle/pull/2) in [Bonsailinse/EVE-Oracle](https://github.com/Bonsailinse/EVE-Oracle)
+3. 🗣 Commented on [#24285](https://github.com/keybase/client/issues/24285) in [keybase/client](https://github.com/keybase/client)
+4. ❗️ Opened issue [#195](https://github.com/GoldenGnu/jeveassets/issues/195) in [GoldenGnu/jeveassets](https://github.com/GoldenGnu/jeveassets)
+5. ❗️ Opened issue [#248](https://github.com/peterhaneve/evemon/issues/248) in [peterhaneve/evemon](https://github.com/peterhaneve/evemon)
 <!--END_SECTION:activity-->
 
 </details>
