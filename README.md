@@ -7,7 +7,7 @@
 ## I do computer stuff for a living. I also try to become a teacher!
 
 - I started to document most of my achievements on my [blog][website]!
-- During 2020 my goal is to become a full stack developer, at least as a hobby.
+- During 2020 my goal was to become a full stack developer, at least as a hobby. It went as expected.
 - I would love to collaborate with other developers, but am a bit too shy to approach people.
 - I am currently learning NodeJS, VueJS, TypeScript and Sass.
 - You can reach me best on [Discord][discord_profile] and [Telegram][telegram].
