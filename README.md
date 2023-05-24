@@ -6,11 +6,10 @@
 
 ## I do computer stuff for a living. I also try to become a teacher!
 
-- I started to document most of my achievements on my [blog][website]!
 - During 2020 my goal was to become a full stack developer, at least as a hobby. It went as expected.
 - I would love to collaborate with other developers, but am a bit too shy to approach people.
 - I am currently learning NodeJS, VueJS, TypeScript and Sass.
-- You can reach me best on [Discord][discord_profile] and [Telegram][telegram].
+- You can reach me on [Discord][discord_profile] and [Telegram][telegram].
 - For more security, write me on [Keybase][keybase].
 - You could also write me an [email][email], if you like it a bit more oldschool.
 - Beside all that my big hobby is gaming, online and offline. Oh, and cooking!
@@ -55,15 +54,6 @@
 
 ---
 
-### Latest Blog Posts *(mainly german content)*:
-<!-- BLOG-POST-LIST:START -->
-- [Eine neue Umgebung](https://bonsailinse.net/eine-neue-umgebung/)
-<!-- BLOG-POST-LIST:END -->
-
-[More Blog Posts →][website]
-
----
-
 ### GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bonsailinse&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonsailinse&layout=compact)
@@ -83,15 +73,6 @@
 
 </details>
 
-<br />
-
-<details>
-  <summary><i>Donation links to support a poor student</i></summary>
-
-  [![BTC](https://img.shields.io/keybase/btc/bonsailinse?style=flat-square&color=f7931a&logo=bitcoin)][btc]
-  [![PayPal](https://img.shields.io/static/v1?label=&message=PayPal&style=flat-square&logo=paypal)][paypal]
-
-</details>
 
 [website]: https://bonsailinse.net
 [twitter]: https://twitter.com/Bonsailinse
@@ -106,4 +87,4 @@
 [devto]: https://dev.to/bonsailinse
 [paypal]: https://paypal.me/RobinLangenhorst
 [btc]: https://gist.github.com/Bonsailinse/ae51b9616bb27988f5d7a0efd2d824ef
-[pgp]: http://hkps.pool.sks-keyservers.net/pks/lookup?search=0x5D2EF8299CCB7260&fingerprint=on&op=index
+[pgp]: https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0xe5959115859ae76e
