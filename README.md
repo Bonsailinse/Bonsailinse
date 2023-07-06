@@ -25,11 +25,11 @@
   <summary>Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24285](https://github.com/keybase/client/issues/24285) in [keybase/client](https://github.com/keybase/client)
-2. 🗣 Commented on [#24285](https://github.com/keybase/client/issues/24285) in [keybase/client](https://github.com/keybase/client)
-3. 🗣 Commented on [#24285](https://github.com/keybase/client/issues/24285) in [keybase/client](https://github.com/keybase/client)
-4. ❗️ Opened issue [#195](https://github.com/GoldenGnu/jeveassets/issues/195) in [GoldenGnu/jeveassets](https://github.com/GoldenGnu/jeveassets)
-5. ❗️ Opened issue [#248](https://github.com/peterhaneve/evemon/issues/248) in [peterhaneve/evemon](https://github.com/peterhaneve/evemon)
+1. 🎉 Merged PR [#5](https://github.com/Bonsailinse/haven/pull/5) in [Bonsailinse/haven](https://github.com/Bonsailinse/haven)
+2. 💪 Opened PR [#5](https://github.com/Bonsailinse/haven/pull/5) in [Bonsailinse/haven](https://github.com/Bonsailinse/haven)
+3. 🎉 Merged PR [#3](https://github.com/Bonsailinse/haven/pull/3) in [Bonsailinse/haven](https://github.com/Bonsailinse/haven)
+4. 💪 Opened PR [#3](https://github.com/Bonsailinse/haven/pull/3) in [Bonsailinse/haven](https://github.com/Bonsailinse/haven)
+5. 🎉 Merged PR [#2](https://github.com/Bonsailinse/haven/pull/2) in [Bonsailinse/haven](https://github.com/Bonsailinse/haven)
 <!--END_SECTION:activity-->
 
 </details>
